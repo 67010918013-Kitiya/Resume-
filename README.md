@@ -1,9 +1,9 @@
-# 👋 Hello, I'm Your Name
+# 👋 Hello, I'm กิติยา วงษา
 
 ## About Me
-🎓 Computer Science Student  
-💻 Interested in Cloud Computing, Software Development and Cyber Security  
-🌱 Currently learning Python, Java, Cloud Technology  
+🎓 DBIS (Database and Information Systems) Student  
+💻 Interested in Database, Information Systems, Cloud Computing and Software Development  
+🌱 Currently learning SQL, Python, Java, Web Development and Cloud Technology  
 
 ---
 
@@ -13,42 +13,48 @@
   - Python
   - Java
   - JavaScript
+  - HTML/CSS
+
+- Database:
+  - MySQL
+  - PostgreSQL
+  - Database Design
+  - SQL Query
 
 - Cloud:
   - AWS
   - Microsoft Azure
   - Oracle Cloud Infrastructure (OCI)
 
-- Database:
-  - MySQL
-  - PostgreSQL
-
 - Tools:
   - Git
   - GitHub
   - Docker
+  - Visual Studio Code
 
 ---
 
 ## 📂 Projects
 
-### Cloud Computing Project
-- Developed a cloud-based application
-- Used Virtual Machine and Cloud Storage
+### Database System Project
+- Designed and developed relational database systems
+- Created database structures and SQL queries
 
 ### Web Application Project
-- Created a website using HTML, CSS, JavaScript
+- Developed a website using HTML, CSS and JavaScript
+- Connected application with database systems
 
-### Database Project
-- Designed and managed relational database systems
+### Cloud Computing Project
+- Worked with Virtual Machine and Cloud Storage
+- Learned cloud infrastructure and deployment concepts
 
 ---
 
 ## 📊 GitHub Statistics
 
-⭐ Total Projects: 10  
-⭐ Programming Languages: Python, Java, JavaScript  
-⭐ Contributions: Active GitHub Contributor
+⭐ Projects: Database, Web Application and Cloud Projects  
+⭐ Programming Languages: Python, Java, JavaScript, SQL  
+⭐ Interested Areas: Database Systems, Cloud Technology and Software Development  
 
 ---
 
@@ -58,4 +64,4 @@ Email: your-email@example.com
 
 LinkedIn: Your LinkedIn Profile
 
-GitHub: https://github.com/yourusername# Resume-
+GitHub: https://github.com/yourusername
